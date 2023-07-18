@@ -1,0 +1,16 @@
+/* Write your code here. */
+
+.thumbnail-img-list {
+  margin-right: 20px;
+  list-style-type: none;
+}
+.selected-thumb {
+  opacity: none;
+}
+.thumbnail-img {
+  opacity: 0.5;
+}
+.thumb-btn {
+  background-color: transparent;
+  border: 0px solid;
+}
